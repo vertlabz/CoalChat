@@ -4,7 +4,7 @@ module.exports = {
     extend: {
       colors: {
         coal: {
-          900: '#071018',
+          900: '#071014',
           800: '#0b141a',
         },
         accent: {

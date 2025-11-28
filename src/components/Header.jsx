@@ -13,7 +13,7 @@ export default function Header({ connected }) {
 
       <div className="status">
         <span className={connected ? 'status-pill online' : 'status-pill offline'}>
-          {connected ? 'Conectado' : 'Desconectado'}
+          {connected ? 'Online' : 'Offline'}
         </span>
       </div>
     </header>
